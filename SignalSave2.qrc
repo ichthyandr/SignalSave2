@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="on">images/on_16.png</file>
+        <file alias="off">images/off_16.png</file>
+        <file alias="001gest">images/001gest.jpg</file>
+        <file alias="002gest">images/002gest.jpg</file>
+        <file alias="003gest">images/003gest.jpg</file>
+        <file alias="004gest">images/004gest.jpg</file>
+        <file alias="005gest">images/005gest.jpg</file>
+        <file alias="006gest">images/006gest.jpg</file>
+        <file alias="007gest">images/007gest.jpg</file>
+        <file alias="008gest">images/008gest.jpg</file>
+        <file alias="009gest">images/009gest.jpg</file>
+        <file alias="010gest">images/010gest.jpg</file>
+        <file alias="011gest">images/011gest.jpg</file>
+        <file alias="012gest">images/012gest.jpg</file>
+        <file alias="013gest">images/013gest.jpg</file>
+        <file alias="014gest">images/014gest.jpg</file>
+    </qresource>
+</RCC>
